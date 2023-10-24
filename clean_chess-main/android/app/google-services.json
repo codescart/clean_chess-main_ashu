@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482942095182",
+    "firebase_url": "https://cleanchess-900ee-default-rtdb.firebaseio.com",
+    "project_id": "cleanchess-900ee",
+    "storage_bucket": "cleanchess-900ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482942095182:android:80ee1b16e0b2882ba3581f",
+        "android_client_info": {
+          "package_name": "com.example.cleanchess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482942095182-qd6ifgmsondjmuk1p2nh7drs3oignua9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ9CBORY1b-p9-m2AAFiSnaMbB_YrExno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482942095182-8d92mh3tt81m2m70fk6obeofj2jkdtgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
